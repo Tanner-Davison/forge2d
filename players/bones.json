@@ -67,7 +67,7 @@
         },
         {
             "folderPath": "game_assets/char_sprites/bones/Slash",
-            "fps": 48.0,
+            "fps": 32.0,
             "hitbox": {
                 "h": 79,
                 "w": 86,
@@ -81,13 +81,6 @@
                     "trimEnd": 1.0,
                     "trimStart": 0.0,
                     "volume": 0.9955357313156128
-                },
-                {
-                    "path": "game_assets/audio/sfx/players/bones/slash_1.mp3",
-                    "timeStretch": false,
-                    "trimEnd": 1.0,
-                    "trimStart": 0.0,
-                    "volume": 1.0
                 }
             ],
             "slot": 5

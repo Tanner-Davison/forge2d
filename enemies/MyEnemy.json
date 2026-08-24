@@ -26,7 +26,7 @@
         },
         {
             "folderPath": "game_assets/enemy_sprites/MyEnemy/Attack",
-            "fps": 14.0,
+            "fps": 23.0,
             "hitbox": {
                 "h": 90,
                 "w": 102,
@@ -37,7 +37,7 @@
         },
         {
             "folderPath": "game_assets/enemy_sprites/MyEnemy/Hurt",
-            "fps": 0.0,
+            "fps": 26.0,
             "hitbox": {
                 "h": 91,
                 "w": 71,

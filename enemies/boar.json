@@ -7,19 +7,19 @@
             "fps": 29.0,
             "hitbox": {
                 "h": 63,
-                "w": 92,
-                "x": 18,
-                "y": 10
+                "w": 63,
+                "x": 38,
+                "y": 14
             },
             "slot": 0
         },
         {
             "folderPath": "game_assets/enemy_sprites/boar/Move",
-            "fps": 16.0,
+            "fps": 23.0,
             "hitbox": {
-                "h": 60,
-                "w": 102,
-                "x": 10,
+                "h": 62,
+                "w": 52,
+                "x": 47,
                 "y": 10
             },
             "sfx": [
@@ -35,7 +35,7 @@
         },
         {
             "folderPath": "game_assets/enemy_sprites/boar/Attack",
-            "fps": 10.0,
+            "fps": 28.0,
             "hitbox": {
                 "h": 61,
                 "w": 105,
@@ -57,9 +57,9 @@
             "folderPath": "game_assets/enemy_sprites/boar/Hurt",
             "fps": 5.0,
             "hitbox": {
-                "h": 60,
-                "w": 97,
-                "x": 10,
+                "h": 58,
+                "w": 54,
+                "x": 45,
                 "y": 10
             },
             "sfx": [
@@ -75,19 +75,19 @@
         },
         {
             "folderPath": "game_assets/enemy_sprites/boar/Dead",
-            "fps": 0.0,
+            "fps": 18.0,
             "hitbox": {
-                "h": 32,
-                "w": 110,
-                "x": 10,
-                "y": 38
+                "h": 34,
+                "w": 90,
+                "x": 30,
+                "y": 36
             },
             "sfx": [
                 {
                     "path": "game_assets/audio/sfx/enemies/boar/boar_dead.wav",
                     "timeStretch": false,
-                    "trimEnd": 0.71875,
-                    "trimStart": 0.0,
+                    "trimEnd": 1.0,
+                    "trimStart": 0.4151785671710968,
                     "volume": 1.0
                 }
             ],

@@ -4,7 +4,8 @@
       "name": "sdl3",
       "default-features": false,
       "features": [
-        { "name": "x11", "platform": "linux" }
+        { "name": "x11", "platform": "linux" },
+        { "name": "alsa", "platform": "linux" }
       ]
     },
     { "name": "sdl3-image", "default-features": false, "features": ["png", "jpeg"] },
